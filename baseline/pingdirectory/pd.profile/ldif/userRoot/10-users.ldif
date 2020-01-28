@@ -33,8 +33,8 @@ objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
 sn: Tancordo
-cn: Sidonia Tancordo
-givenName: Sidonia
+cn: Ivan Tancordo
+givenName: Ivan
 uid: user.2
 mail: user.2@example.com
 userPassword: 2FederateM0re
